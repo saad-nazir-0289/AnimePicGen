@@ -32,7 +32,6 @@ The app shows:
 * Random anime neko image generator
 * Fetches live images from an external API
 * Auto-loads one image on page open
-* Button to generate a new image instantly
 
 
 ---
