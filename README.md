@@ -33,7 +33,7 @@ The app shows:
 * Fetches live images from an external API
 * Auto-loads one image on page open
 * Button to generate a new image instantly
-* Beginner-friendly and lightweight project
+
 
 ---
 
